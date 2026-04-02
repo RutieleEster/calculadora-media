@@ -1,0 +1,26 @@
+.container {
+    max-width: 300px;
+    margin: 50px auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.campo {
+    margin-bottom: 10px;
+}
+
+input {
+    width: 100%;
+}
+
+/* O segredo para o resultado começar escondido */
+.hidden {
+    display: none;
+}
+
+#resultado {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #d4edda; /* Um verde leve de sucesso */
+    border-radius: 5px;
+}
